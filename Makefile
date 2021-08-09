@@ -1,3 +1,5 @@
+HEROKU_EMAIL_ADRESS = blanchard.nicolas@hotmail.com
+
 # ----------------------------------
 #          INSTALL & TEST
 # ----------------------------------
